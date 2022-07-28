@@ -1,0 +1,2 @@
+# Proyecto_Desgraduacion
+Este proyecto tiene como objetivo poder demostrar mis habilidades en la ciencia de datos. Utilizando herramientas como data cleaning y data visualization llegar a conclusiones acerca de un set de datos otorgado por la pagina Data playground.  Donde abordaré un tema de análisis de datos acerca del tráfico en una página web, analizando sus ventas, origen de la compra y el sistema operativo desde el que se realiza la compra. Todo con el fin de terminar mi curso en Professional in Data Science impartido por DEVF
